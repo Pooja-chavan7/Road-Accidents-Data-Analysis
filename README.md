@@ -6,19 +6,13 @@ The goal of this project is to transform raw accident data into meaningful insig
 
 Tools & Technologies Used
 
-Microsoft Excel
-
-Pivot Tables
-
-Pivot Charts
-
-Slicers
-
-Data Cleaning
-
-Data Aggregation
-
-Dashboard Design
+1. Microsoft Excel
+2. Pivot Tables
+3. Pivot Charts
+4. Slicers
+5. Data Cleaning
+6. Data Aggregation
+7. Dashboard Design
 
 The main objectives of this project were:
 
