@@ -22,8 +22,12 @@ Dashboard Design
 
 The main objectives of this project were:
 
-Analyze accident trends and casualty distribution
-Identify high-risk road types and conditions
-Understand the impact of weather and lighting on accidents
-Create an interactive dashboard for easy data exploration
-Derive insights that can help improve road safety awareness
+1. Analyze accident trends and casualty distribution
+2. Identify high-risk road types and conditions
+3. Understand the impact of weather and lighting on accidents
+4. Create an interactive dashboard for easy data exploration
+5. Derive insights that can help improve road safety awareness
+
+
+
+
